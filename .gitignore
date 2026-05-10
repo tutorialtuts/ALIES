@@ -1,1 +1,19 @@
+# Large data files
+*.tsv.gz
+*.maf.gz
+*.xlsx
+*.rds
+*.rda
 
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output figures (optional — include if small)
+outputs/figures/*.png
+outputs/figures/*.pdf
