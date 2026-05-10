@@ -1,1 +1,19 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the software."
+authors:
+  - family-names: "Kumar S"
+    given-names: "Kishore"
+    orcid: "https://orcid.org/[YOUR-ORCID]"
+title: "ALIES: Arm-Level Immune Exclusion Score"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/[username]/ALIES"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kumar S"
+      given-names: "Kishore"
+  title: "Arm-Level Aneuploidy Encodes Immune Exclusion Across Human Cancers"
+  journal: "British Journal of Cancer"
+  year: 2025
+  doi: "[doi]"
